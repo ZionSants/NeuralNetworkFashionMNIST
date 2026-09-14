@@ -12,7 +12,7 @@ Rede neural do tipo Multilayer Perceptron desenvolvida em PyTorch. O modelo trei
 - **Torchvision** 
 - **Matplotlib** 
 
-## (Melhorias Futuras)
+## Melhorias Futuras
 
 - Implementar o salvamento dos pesos do modelo, permitindo carregar a IA já treinada instantaneamente para testes futuros.
 - Substituir as camadas lineares por camadas convolucionais, transformando o modelo em uma CNN para aumentar a precisão na identificação das peças de roupa.
